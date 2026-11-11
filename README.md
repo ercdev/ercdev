@@ -30,24 +30,24 @@ _Une partie de mes projets est en dépôt privé. Leurs présentations et démos
 <table>
   <tr>
     <th width="140"></th>
-    <th width="110">🎨 Front</th>
-    <th width="110">⚙️ Back</th>
-    <th width="110">🗄️ BDD</th>
+    <th width="110">Front</th>
+    <th width="110">Back</th>
+    <th width="110">BDD</th>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Web</b></td>
+    <td align="center"><b>Web</b></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile</b></td>
+    <td align="center"><b>Mobile</b></td>
     <td align="center">✅</td>
     <td align="center">➖</td>
     <td align="center">➖</td>
   </tr>
   <tr>
-    <td align="center"><b>🖥️ Desktop</b></td>
+    <td align="center"><b>Desktop</b></td>
     <td align="center">➖</td>
     <td align="center">➖</td>
     <td align="center">➖</td>
