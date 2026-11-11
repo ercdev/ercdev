@@ -91,5 +91,5 @@ Plus le badge est grand, plus je maîtrise la technologie :
 ![badge](https://shieldcn.dev/badge/.svg?logo=ri%3ATbBrandAdobePhotoshop&label=Photoshop&color=0261fb)
 
 <p align="center">
-  <a href="https://github.com/erc-dev/erc-dev/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/erc-dev/erc-dev.svg?mode=dark" /></a>
+  <a href="https://github.com/ercdev/ercdev/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/ercdev/ercdev.svg?mode=dark" /></a>
 </p>
