@@ -1,10 +1,11 @@
 <p align="center">
-  <img alt="header" src="https://shieldcn.dev/header/grid.svg?title=EVANN+-+ERC&amp;subtitle=Createur+de+projet+web&amp;logo=https%3A%2F%2Ferc-dev.fr%2Fimg%2Flogo-erc.webp&amp;mode=dark" />
+  <img alt="header" src="https://shieldcn.dev/header/grid.svg?title=EVANN+-+ERC&amp;subtitle=D%C3%A9veloppeur+web+junior+%C2%B7+Licence+CDA&amp;logo=https%3A%2F%2Ferc-dev.fr%2Fimg%2Flogo-erc.webp&amp;mode=dark&amp;font=space-grotesk&amp;border=false&amp;image=https%3A%2F%2Ferc-dev.fr%2Fimg%2Fbackground-hero-overlay.webp" />
 </p>
 
 <p align="center">
   <img alt="built in" src="https://shieldcn.dev/flag/fr.svg?variant=destructive&amp;theme=neutral" />
-  <a href="https://erc-dev.fr"><img alt="badge" src="https://shieldcn.dev/badge/Site-erc-dev.fr-b3efb2.svg" /></a>
+  <a href="https://erc-dev.fr"><img alt="badge" src="https://shieldcn.dev/badge/-erc-dev.fr-b3efb2.svg?logo=lu%3APanelsTopLeft&amp;label=Site" /></a>
+  <img alt="badge" src="https://shieldcn.dev/badge/-contact@erc-dev.fr.svg?logo=lu%3AMail&amp;label=Mail" />
 </p>
 
 ##  Bonjour, moi c'est Evann
@@ -25,11 +26,34 @@ Je travaille avec la même exigence sur tous mes projets :
 
 _Une partie de mes projets est en dépôt privé. Leurs présentations et démos sont sur erc-dev.fr._
 
-| Feature | Front | Back | BDD |
-| --- | --- | --- | --- |
-| Web | ✅ | ✅ | ✅ |
-| Mobile | ✅ | ❌ | ❌ |
-| Desktop | ❌ | ❌ | ❌ |
+<div align="center">
+<table>
+  <tr>
+    <th width="140"></th>
+    <th width="110">🎨 Front</th>
+    <th width="110">⚙️ Back</th>
+    <th width="110">🗄️ BDD</th>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Web</b></td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📱 Mobile</b></td>
+    <td align="center">✅</td>
+    <td align="center">➖</td>
+    <td align="center">➖</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🖥️ Desktop</b></td>
+    <td align="center">➖</td>
+    <td align="center">➖</td>
+    <td align="center">➖</td>
+  </tr>
+</table>
+</div>
 
 ## Front-end
 
@@ -67,5 +91,5 @@ Plus le badge est grand, plus je maîtrise la technologie :
 ![badge](https://shieldcn.dev/badge/.svg?logo=ri%3ATbBrandAdobePhotoshop&label=Photoshop&color=0261fb)
 
 <p align="center">
-  <a href="https://github.com/ercdev/ercdev/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/ercdev/ercdev.svg?mode=dark" /></a>
+  <a href="https://github.com/erc-developpeur/erc-developpeur/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/erc-developpeur/erc-developpeur.svg?mode=dark" /></a>
 </p>
