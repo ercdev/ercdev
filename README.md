@@ -93,3 +93,4 @@ Plus le badge est grand, plus je maîtrise la technologie :
 <p align="center">
   <a href="https://github.com/ercdev/ercdev/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/ercdev/ercdev.svg?mode=dark" /></a>
 </p>
+<!-- pour la realisation faite par ce site : https://shieldcn.dev/studio -->
